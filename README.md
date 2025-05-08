@@ -5,8 +5,7 @@
 
 **CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents**
 
-[Project](https://clararobot.github.io/)
-&  [Arxiv](https://arxiv.org/abs/2306.10376)
+[[Project Page](https://clararobot.github.io/) | [Paper](https://arxiv.org/abs/2306.10376) | [Video](https://youtu.be/ZePj4rUl-T0)
 
 **Our contributions are as follows**
 1. We introduce a method to capture uncertainty from large language models to recognize ambiguous or infeasible commands.
